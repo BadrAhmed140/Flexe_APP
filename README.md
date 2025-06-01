@@ -45,10 +45,10 @@ The app uses **Firebase Authentication** to ensure secure user login and manages
 <p float="left">
   <img src="Screens/Screen1.jpg" width="200" />
   <img src="Screens/Screen2.jpg" width="200" />
-  <img src="screens/screen3.jpg" width="200" />
-  <img src="screens/screen4.jpg" width="200" />
-  <img src="screens/screen5.jpg" width="200" />
-  <img src="screens/screen6.jpg" width="200" />
+  <img src="Screens/screen3.jpg" width="200" />
+  <img src="Screens/screen4.jpg" width="200" />
+  <img src="Screens/screen5.jpg" width="200" />
+  <img src="Screens/screen6.jpg" width="200" />
 </p>
 
 
