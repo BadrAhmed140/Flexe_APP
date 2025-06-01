@@ -49,6 +49,8 @@ The app uses **Firebase Authentication** to ensure secure user login and manages
   <img src="Screens/Screen4.jpg" width="200" />
   <img src="Screens/Screen5.jpg" width="200" />
   <img src="Screens/Screen6.jpg" width="200" />
+  <img src="Screens/Screen7.jpg" width="200" />
+  <img src="Screens/Screen8.jpg" width="200" />
 </p>
 
 
