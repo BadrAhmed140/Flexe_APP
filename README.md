@@ -1,7 +1,7 @@
 # Flexe_Tax_APP
 # E-Invoices and E-Receipts Mobile Application
 
-A secure Flutter mobile app designed to manage electronic invoices and receipts by integrating directly with the **Egyptian Tax Authority (ETA)** portal via their official APIs.
+A secure Flutter mobile app designed to manage invoices and receipts by integrating directly with the **Egyptian Tax Authority (ETA)** portal via their official APIs.
 
 ---
 
